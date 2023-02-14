@@ -7,30 +7,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Bron vermelding ReadMe
-Backend Web 2021-2022
------------------------------
-!!! admin login !!!
-	user name: admin 
-	mail: admin@ehb.be
-	paswoord: password 
------------------------------
+<H1>ReadMe Laravel-Applicatie</H1>
+<ul>
+	<li><h3>admin login</h3></li>
+	<li>user name: admin</li>
+	<li>mail: admin@ehb.be</li>
+	<li>paswoord: password</li>
+</ul>
+informatie was beschikbaar op https://laravel.com/docs/9.x. 
+<br>
+<ul style="list-style: none;">
+	<li>https://laravel.com/docs/9.x/eloquent</li>
+	<li>https://laravel.com/docs/9.x/validation#form-request-validation</li>
+	<li>https://laravel.com/docs/9.x/blade#displaying-data</li>
+	<li>https://laravel.com/docs/9.x/migrations#column-method-date</li>
+	<br>
+	<li>https://laravel.com/docs/4.2/schema#foreign-keys</li>
+</ul>
 
-Nergens rechtstreeks code overgenomen niet beschikbaar via laravel. 
-De meeste informatie was beschikbaar op https://laravel.com/docs/9.x. 
+<ul>
+	<li>authentication starter kit - laravel breez</li>
+	<li style="list-style: none;">https://laravel.com/docs/9.x/authentication#starter-kits</li>
+</ul>
 	
-
-	*https://laravel.com/docs/9.x/eloquent
-	*https://laravel.com/docs/9.x/validation#form-request-validation
-	*https://laravel.com/docs/9.x/blade#displaying-data
-	*https://laravel.com/docs/9.x/migrations#column-method-date
-
-	(soms oudere versies dan laravel 9)
-		*https://laravel.com/docs/4.2/schema#foreign-keys
-
-
-genruik gamaakt van de authentication starter kit van laravel breez
-	* https://laravel.com/docs/9.x/authentication#starter-kits
 
 ## About Laravel
 
