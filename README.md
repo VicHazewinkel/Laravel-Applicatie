@@ -10,9 +10,9 @@
 <H1>ReadMe Laravel-Applicatie</H1>
 <ul>
 	<li><h3>admin login</h3></li>
-	<li>user name: admin</li>
-	<li>mail: admin@ehb.be</li>
-	<li>paswoord: password</li>
+	<li style="list-style: none;">user name: admin</li>
+	<li style="list-style: none;">mail: admin@ehb.be</li>
+	<li style="list-style: none;">paswoord: password</li>
 </ul>
 informatie was beschikbaar op https://laravel.com/docs/9.x. 
 <br>
@@ -29,6 +29,7 @@ informatie was beschikbaar op https://laravel.com/docs/9.x.
 	<li>authentication starter kit - laravel breez</li>
 	<li style="list-style: none;">https://laravel.com/docs/9.x/authentication#starter-kits</li>
 </ul>
+	
 	
 
 ## About Laravel
