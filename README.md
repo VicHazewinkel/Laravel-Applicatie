@@ -7,6 +7,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Bron vermelding ReadMe
+Backend Web 2021-2022
+-----------------------------
+!!! admin login !!!
+	user name: admin 
+	mail: admin@ehb.be
+	paswoord: password 
+-----------------------------
+
+Nergens rechtstreeks code overgenomen niet beschikbaar via laravel. 
+De meeste informatie was beschikbaar op https://laravel.com/docs/9.x. 
+	
+
+	*https://laravel.com/docs/9.x/eloquent
+	*https://laravel.com/docs/9.x/validation#form-request-validation
+	*https://laravel.com/docs/9.x/blade#displaying-data
+	*https://laravel.com/docs/9.x/migrations#column-method-date
+
+	(soms oudere versies dan laravel 9)
+		*https://laravel.com/docs/4.2/schema#foreign-keys
+
+
+genruik gamaakt van de authentication starter kit van laravel breez
+	* https://laravel.com/docs/9.x/authentication#starter-kits
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
