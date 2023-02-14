@@ -8,8 +8,9 @@
 </p>
 
 <H1>ReadMe Laravel-Applicatie</H1>
+<br>
+<h3>admin login</h3>
 <ul>
-	<li><h3>admin login</h3></li>
 	<li style="list-style: none;">user name: admin</li>
 	<li style="list-style: none;">mail: admin@ehb.be</li>
 	<li style="list-style: none;">paswoord: password</li>
@@ -24,9 +25,8 @@ informatie was beschikbaar op https://laravel.com/docs/9.x.
 	<br>
 	<li>https://laravel.com/docs/4.2/schema#foreign-keys</li>
 </ul>
-
+authentication starter kit - laravel breez
 <ul>
-	<li>authentication starter kit - laravel breez</li>
 	<li style="list-style: none;">https://laravel.com/docs/9.x/authentication#starter-kits</li>
 </ul>
 	
